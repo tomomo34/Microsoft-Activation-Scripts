@@ -1,1 +1,1 @@
-print("hello world")
+username = input("What is your name:")
