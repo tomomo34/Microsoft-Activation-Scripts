@@ -1,2 +1,2 @@
 username = input("What is your name:")
-print("Your name is", username)
+print("Hi mr/ms:", username)
